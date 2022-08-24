@@ -1,0 +1,10 @@
+.workContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    .title {
+        margin-top: 10px;
+        margin-bottom: 4px;
+    }
+}
